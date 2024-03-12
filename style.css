@@ -6,13 +6,19 @@
   
   body {
     min-height: 100lvh;
-    background-color: #b400d3;
+    background-color: #F2A1FE;
   }
 
   .title {
     color:white; 
     font-family:verdana; 
     text-align:center
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .circle {
